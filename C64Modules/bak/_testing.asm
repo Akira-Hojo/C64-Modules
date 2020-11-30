@@ -1,6 +1,4 @@
-##{0}C:\Users\furntree\Documents\GitHub\C64-Modules\C64Modules\_testing.asm
 
-incasm "monitor.asm"
 
 
 ; 10 SYS (49152)
@@ -91,4 +89,3 @@ jmp dump
 ;        cld
 ;        rts
 ;        ;7 bytes
-

@@ -1,4 +1,4 @@
-incasm "monitor.asm"
+
 
 
 ; 10 SYS (49152)
